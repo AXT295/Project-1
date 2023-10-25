@@ -7,7 +7,7 @@ Project Idea: Statistical analyses of factors that have an effect on life expect
    The accuracy of data is an essential factor in the project. World Health Organization's Global Health Observatory, which contains data on health status and many other related factors across all countries, makes these sets publicly accessible for the purpose of analysis of health data. A set of information on life expectancy, and health indicators in 193 countries have been gathered from the WHO database website as well as data relating to its economy was obtained from the websites of the UN. Only those essential factors have been selected from all categories on health related factors, which are of greater significance. Over the last 15 years, there has been a significant development of health sector leading to an improved mortality rate in countries such as India and Brazil compared with the past 30 years. Therefore, for further analysis, data from 193 countries have been taken into account in this project from 2000 to 2015. A single Dataset has been set up of all individual data files.
    
 Key questions that the data set addresses are as follows:
-1. Is their correlation between GDP and life expectancy of the population for different countries?
+1. Is there a correlation between GDP and life expectancy of the population for different countries?
 2. Which country had a maximum increase in life expectancy in a course of 15 yrs?
 3. Which country had a maximum decrease in life expectancy in a course of 15 yrs?
 
